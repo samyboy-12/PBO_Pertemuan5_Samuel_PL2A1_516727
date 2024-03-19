@@ -12,17 +12,14 @@ class Barang {
         this.jumlahBarang = jumlahBarang;
     }
 
-    // Getter untuk namaBarang
     public String getNamaBarang() {
         return namaBarang;
     }
 
-    // Getter untuk hargaBarang
     public int getHargaBarang() {
         return hargaBarang;
     }
 
-    // Getter untuk jumlahBarang
     public int getJumlahBarang() {
         return jumlahBarang;
     }
